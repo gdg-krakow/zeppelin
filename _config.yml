@@ -48,7 +48,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest<typeout>2014"
-eventDate: "October 8, 2014"
+eventDate: "November 8, 2014"
 typeoutTextValues: '"", "Conference", "Workshops", "Poland"'
 typeoutFallback: "Conference"
 heroButtons:
@@ -88,9 +88,9 @@ eventAddressLocality: "Kraków"
 eventAddressLocalityRegion: "Małopolska"
 eventPostalCode: "31-530"
 eventAddressCountry: "Poland"
-eventStartTime: "2014-10-08T10:00"
+eventStartTime: "2014-11-08T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-08T18:00"
+eventEndTime: "2014-11-08T18:00"
 eventPlaceCoordinates: "50.06026420000001, 19.9507287"
 mapCenterCoordinates: "50.06026420000001, 19.9507287"
 mapMobileCenterCoordinates: "50.061711, 19.950503"
@@ -134,8 +134,8 @@ ticketsOffers:
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-09-22T00:00"
-  validThrough: "2014-10-08T10:00"
+  validFrom: "2014-09-30T00:00"
+  validThrough: "2014-11-08T10:00"
 
 # Footer
 socialLinks:
