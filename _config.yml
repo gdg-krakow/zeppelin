@@ -47,7 +47,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest<typeout>2014"
+heroTitle: "GDG DevFest <typeout> 2014"
 eventDate: "November 8, 2014"
 typeoutTextValues: '"", "Conference", "Workshops", "Poland"'
 typeoutFallback: "Conference"
@@ -67,8 +67,8 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "15", specialCharacter: "", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "workshops", detail: "of pure Google technologies"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "3", specialCharacter: "", info: "workshops", detail: "of pure technologies"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "tech & soft skills"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -139,7 +139,7 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/gdgkrk", icon: "google-plus"}
+ - {link: "https://plus.google.com/+GDGKrakowPlus", icon: "google-plus"}
  - {link: "https://twitter.com/gdgkrk", icon: "twitter"}
  - {link: "https://www.facebook.com/gdgkrk", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
@@ -147,6 +147,7 @@ footerBlocks:
  -
   title: "Links"
   links:
+   - {link: "http://www.meetup.com/GDG-Krakow", text: "GDG Krakow Meetup"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
@@ -192,30 +193,6 @@ directionDetailsCards:
  - {title: "Train & Bus Station", information: 'Train & Bus station are both located in the heart of Krakow. The most convenient way to get to the conference place from there is on foot (1,5km, around 15 minutes).'}
  - {title: "Public Transport", information: 'You can download the JakDojade (<a href="https://play.google.com/store/apps/details?id=com.citynav.jakdojade.pl.android&hl=pl">Android</a>, <a href="https://itunes.apple.com/pl/app/jakdojade.pl/id506760190?mt=8">iOS</a>) or MPK Krakow (<a href="https://play.google.com/store/apps/details?id=com.mpk.ideo&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5tcGsuaWRlbyJd">Android</a>, <a href="https://itunes.apple.com/us/app/mpk-krakow-rozk-ad-jazdy/id545233244?mt=8pl">iOS</a>) Apps. Collegium Medicum is located in the city center - the nearest bus & tram stops are: Lubicz, Hala Targowa & Poczta Główna.'}
 directionDetailsWideCards: 
- -
-  title: "Questions?"
-  subCards:
-   -
-    title: "Hotels"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   - 
-    title: "Registration"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
