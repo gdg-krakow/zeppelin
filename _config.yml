@@ -131,7 +131,7 @@ ticketsOffers:
   priceCurrency: "PLN"
   ticketsNumber: "300"
   ribbon: ""
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "http://devfestpl.evenea.pl/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-09-30T00:00"
