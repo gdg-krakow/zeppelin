@@ -111,7 +111,7 @@ twitterHashTag: "devfestpl"
 twitterFeed: "http://kdzwinel.1.ai/tweetledee/searchjson.php"
 
 # Partners Block
-organizersTitle: "Organizers"
+organizersTitle: "Organizer"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
@@ -160,7 +160,7 @@ blogCommentsEnabled: false
 discusShortName: "devfestpl"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
