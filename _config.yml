@@ -108,7 +108,7 @@ venueFeatures: ["3 halls", "WiFi for attendees", "Complex Audiovisual System", "
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "devfestpl"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+twitterFeed: "http://kdzwinel.1.ai/tweetledee/searchjson.php"
 
 # Partners Block
 organizersTitle: "Organizers"

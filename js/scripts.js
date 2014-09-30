@@ -249,7 +249,7 @@
 
         if (typeof twitterFeedUrl !== 'undefined') {
             $.getJSON(twitterFeedUrl, function(data) {
-                $.each(data, function(i, gist) {
+                $.each(data.statuses, function(i, gist) {
                     var tweetElement = '<div class="tweet animated fadeInUp hidden"><p class="tweet-text">' + linkify(gist.text) + '</p><p class="tweet-meta">by <a href="https://twitter.com/' + gist.user.screen_name + '" target="_blank">@' + gist.user.screen_name + '</a></p></div>';
                     $('#tweets').append(tweetElement);
                 });
@@ -257,6 +257,10 @@
             });
 
             function linkify(inputText) {
+                if(!inputText) {
+                  return;
+                }
+
                 var replacedText, links1, links2, hashtags, profileLinks;
                 links1 = /(\b(https?|ftp):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/gim;
                 replacedText = inputText.replace(links1, '<a href="$1" target="_blank">$1</a>');
