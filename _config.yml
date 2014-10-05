@@ -105,7 +105,7 @@ venueTitle: "Collegium Medicum UJ"
 venueFeatures: ["3 halls", "WiFi for attendees", "Complex Audiovisual System", "Localization in the city center"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedImage: "direction-details.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "devfestpl"
 twitterFeed: "http://kdzwinel.1.ai/tweetledee/searchjson.php"
