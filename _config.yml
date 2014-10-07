@@ -8,8 +8,8 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: "GDG DevFest Conference 2014"
 email: "devfest2014@gdgpoland.org"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "http://gdg-krakow.github.io"
+baseurl: ""
+url: "http://devfest.pl/"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-55295197-1"
 googleAnalyticsSiteUrl: "gdg-krakow.github.io"
@@ -31,7 +31,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "http://goo.gl/fC9WVQ"
-c4sponsorsUrl: "/assets/devfest_partnership.pdf"
+c4sponsorsUrl: "/partnership.pdf"
 
 
 # Navigation
