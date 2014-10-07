@@ -5,9 +5,9 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Conference 2014"
+title: "GDG DevFest Poland 2014"
 email: "devfest2014@gdgpoland.org"
-description: "GDG DevFest is a set of events all around the world"
+description: "GDG DevFest Poland will be on 8 November in Krakow. 3 parallel tracks & 15 European speakers. You need to be there - save the date!"
 baseurl: ""
 url: "http://devfest.pl/"
 permalink: "/blog/:title"
