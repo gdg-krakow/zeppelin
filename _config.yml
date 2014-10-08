@@ -8,7 +8,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: "GDG DevFest Poland 2014"
 email: "devfest2014@gdgpoland.org"
 description: "GDG DevFest Poland will be on 8 November in Krakow. 3 parallel tracks & 15 European speakers. You need to be there - save the date!"
-baseurl: "/zeppelin/"
+baseurl: ""
 url: "http://devfest.pl/"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-55295197-1"
@@ -58,8 +58,8 @@ heroButtons:
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
- - {title: "Conference", image: "conference.png", text: "A day full of speeches about newest technologies presented by European speakers. There will also be a soft skills set with practical tips & tricks regarding leadership, communication & design." }
- - {title: "Workshops", image: "workshops.png", text: "3 workshops of 1,5 hour each, related with topics introduced in presentations. That will be a great occasion to try and develop something new using up to date technologies under the supervision of experts." }
+ - {title: "Conference", image: "conference.png", text: "A day full of talks about newest technologies presented by European speakers. There will also be a soft skills set with practical tips & tricks regarding leadership, communication & design." }
+ - {title: "Workshops", image: "workshops.png", text: "3 workshops of 1,5 hour each, related to the topics introduced in presentations. That will be a great occasion to try and develop something new using up to date technologies under the supervision of experts." }
  - {title: "Networking", image: "krakow.png", text: "During the conference you will have a lot of occasions to meet interesting people from Poland and Europe. Conference will end with an afterparty in one of Krakow’s clubs." }
 
 # Statistic Block
@@ -123,7 +123,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
   name: "Regular"

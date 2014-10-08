@@ -60,6 +60,8 @@
   bio: ""
   thumbnailUrl: MichalTajchert.jpg
   rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/105909141177271768718/"}
 -
   id: 6
   name: "Paweł"
@@ -87,3 +89,16 @@
   bio: ""
   thumbnailUrl: WojciechKalicinski.jpg
   rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/105909141177271768718/"}
+-
+  id: 9
+  name: "Paweł"
+  surname: "Psztyć"
+  company: "Kalicinscy.com"
+  title: "Web Developer, UX designer"
+  bio: "Paweł is an expert in Chrome apps and Dart programming language. It also includes advanced CSS and JavaScript skills. As an UX team leader in Kalicinscy.com interactive agency he is responsible for design process. He is an author of many Chrome apps like Advanced Rest Client which is used by over 300K developers all over the world. He can be found in many GDG Warsaw’s events as a speaker or co-organizer. He loves to share his knowledge with other developers believing that it will help developers community to reach next level."
+  thumbnailUrl: PawelPsztyc.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/105909141177271768718/"}
