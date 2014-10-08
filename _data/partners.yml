@@ -1,0 +1,6 @@
+-
+  group: ""
+  elements: 
+    - {name: "Crossweb.pl", description: "Crossweb.pl", link: "http://crossweb.pl", imageUrl: "crossweb.png"}
+    - {name: "Webmus.es", description: "Webmus.es", link: "http://www.webmus.es/", imageUrl: "Webmuses.jpg"}
+    - {name: "Hackerspace Kraków", description: "hackerspace-krk.pl", link: "http://hackerspace-krk.pl/", imageUrl: "HackerSpace.png"}
