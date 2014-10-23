@@ -73,12 +73,14 @@
         Pawel leads Lunar Logic, web software shop in Krakow, Poland, where he field tests his ideas on improving management methods."
   thumbnailUrl: PBrodzinski.jpg
   rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/pawelbrodzinski"}
 -
   id: 7
   name: "Paul"
   surname: "Klipp"
   company: "Kanbanery.com"
-  title: ""
+  title: "President"
   bio: "Paul is a seasoned expert in agile software development. He is the
         founder of Lunar Logic and <a href='http://kanbanery.com'>Kanbanery.com</a>. He is a Certified Scrum
         Practitioner (Scrum Alliance) and a certified Kanban Coaching
