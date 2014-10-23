@@ -115,3 +115,31 @@
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/105909141177271768718/"}
+-
+  id: 10
+  name: "Tomasz"
+  surname: "Kubacki"
+  company: ""
+  title: ""
+  bio: "Software engineer interested in both client and server side web development. OS projects contributor (mostly ServiceStack). Addicted to coffee freelancer & wannabe entrepreneur."
+  thumbnailUrl: TomaszKubacki.jpg
+  rockstar: true
+-
+  id: 11
+  name: "Maciej"
+  surname: "Górski"
+  company: ""
+  title: ""
+  bio: "Maciej is a passionate Android developer. He deeply cares about writing cleaner code and less amount of it. He also bikes a lot and would love to be able to code while doing it... using only mind controlled wearables or bikeables."
+  thumbnailUrl: MaciejGorski.jpg
+  rockstar: true
+-
+  id: 12
+  name: "Przemysław"
+  surname: "Pietruszka"
+  company: "Ocado Technology"
+  title: ""
+  bio: "Graduated in Computer Science from University of Wrocław.<br/>
+        Former employee of US-based Hadoop startup called Hadapt (which was recently acquired by Teradata), now working on new Big Data architecture for Ocado."
+  thumbnailUrl: PrzemyslawPietruszka.jpg
+  rockstar: true
