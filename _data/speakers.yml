@@ -30,7 +30,7 @@
   surname: "Zagidullina"
   company: "GDG Stuttgart"
   title: ""
-  bio: ""
+  bio: "Community manager of two Google Developer Groups (GDGs) in Germany and Russia, Google Top Contributor (TC) for Google+, Gmail, and web search, active member of the global Women Techmakers (WTM) community, translator, quantum chemist as well as MOOC and citizen science enthusiast."
   thumbnailUrl: AygulZagidullina.jpg
   rockstar: true
   ribbon:
@@ -57,7 +57,7 @@
   surname: "Tajchert"
   company: "Polidea"
   title: ""
-  bio: ""
+  bio: "Michal is Android Developer for all kinds of wearables, done programming for things such Oakley Airwave, Glass, Sony Smartwatch, and lately found his place in Android Wear development. He has contributed most of his project to the community and shared his knowledge to the community by organising many of Warsaw GDG meetings."
   thumbnailUrl: MichalTajchert.jpg
   rockstar: true
   ribbon:
@@ -68,7 +68,9 @@
   surname: "Brodziński"
   company: "Lunar Logic"
   title: ""
-  bio: ""
+  bio: "Pawel Brodzinski is a leader, a team builder and a change agent, but most of all he is an always experimenting practitioner trying to make his teams work better (and learn in the process).<br/>
+        Pawel is well-recognized public speaker and blogger sharing his thoughts about software project management at <a href='http://brodzinski.com'>http://brodzinski.com</a> .<br/>
+        Pawel leads Lunar Logic, web software shop in Krakow, Poland, where he field tests his ideas on improving management methods."
   thumbnailUrl: PBrodzinski.jpg
   rockstar: true
 -
@@ -77,19 +79,30 @@
   surname: "Klipp"
   company: "Kanbanery.com"
   title: ""
-  bio: ""
+  bio: "Paul is a seasoned expert in agile software development. He is the
+        founder of Lunar Logic and <a href='http://kanbanery.com'>Kanbanery.com</a>. He is a Certified Scrum
+        Practitioner (Scrum Alliance) and a certified Kanban Coaching
+        Professional (Lean Kanban University). Paul has studied the Kanban
+        Method with the inventor of the Kanban Method, David Anderson. For
+        twenty years, he has managed technology projects on three continents
+        with teams ranging from 2 to 250 developers serving a wide variety of
+        industries. He has spoken at numerous technology conferences on agile
+        and kanban methods."
   thumbnailUrl: PKlipp.jpg
   rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/paulklipp"}
 -
   id: 8
   name: "Wojciech"
   surname: "Kaliciński"
   company: "Kalicinscy.com"
-  title: ""
-  bio: ""
+  title: "Co-owner &amp; CTO"
+  bio: "Wojciech Kaliciński is a Co-owner and CTO of interactive agency <a href='http://Kalicińscy.com'>Kalicińscy.com</a>, where he’s main task is selection of technology and software development, mostly mobile. Wojciech specializes in Android programming, in which he fell in love and promote from the start, since version 1.0. He regularly shares his impressive knowledge with other new technologies hotheads on meetings organized by Google Developer Group."
   thumbnailUrl: WojciechKalicinski.jpg
   rockstar: true
   ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/105909141177271768718/"}
 -
   id: 9
