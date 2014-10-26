@@ -183,3 +183,30 @@
     - {name: "google-plus", link: "https://plus.google.com/+JakubSkvara/"}
     - {name: "twitter", link: "https://twitter.com/@skvaros"}
     - {name: "homepage", link: "http://www.jakubskvara.cz/"}
+-
+  id: 16
+  name: "Dominika"
+  surname: "Musiał"
+  company: "VirtusLab"
+  title: "Software Engineer"
+  bio: ""
+  thumbnailUrl: DominikaMusial.jpg
+  rockstar: true
+-
+  id: 17
+  name: "Radek"
+  surname: "Piekarz"
+  company: "Making Waves"
+  title: "Software Engineer"
+  bio: "Radek has almost 5 years of experience in mobile platforms. In his free time he is developing his own application Scrobbles FM, which has been recognized in competitions conducted by the portals AntyApps.pl and Android.com.pl. Since 2011 he has been working for Making Waves Poland as .NET developer for international clients. Besides programming, his time is effectively fulfilled by the culinary experiments and photography."
+  thumbnailUrl: RadekPiekarz.jpg
+  rockstar: true
+-
+  id: 18
+  name: "Piotr"
+  surname: "Bryk"
+  company: "Google"
+  title: "Software Engineer"
+  bio: "Piotr is passionate about frontend development and simply making users happy. He does this while working on Angular apps as a Software Engineer at Google Kraków."
+  thumbnailUrl: PiotrBryk.jpg
+  rockstar: true
