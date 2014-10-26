@@ -122,7 +122,7 @@
   name: "Tomasz"
   surname: "Kubacki"
   company: ""
-  title: "Building Polymer apps with Dart"
+  title: "Freelance Software Developer"
   bio: "Software engineer interested in both client and server side web development. OS projects contributor (mostly ServiceStack). Addicted to coffee freelancer & wannabe entrepreneur."
   thumbnailUrl: TomaszKubacki.jpg
   rockstar: true
@@ -130,8 +130,8 @@
   id: 11
   name: "Maciej"
   surname: "Górski"
-  company: ""
-  title: ""
+  company: "El Passion"
+  title: "Android Developer"
   bio: "Maciej is a passionate Android developer. He deeply cares about writing cleaner code and less amount of it. He also bikes a lot and would love to be able to code while doing it... using only mind controlled wearables or bikeables."
   thumbnailUrl: MaciejGorski.jpg
   rockstar: true
@@ -145,3 +145,41 @@
         Former employee of US-based Hadoop startup called Hadapt (which was recently acquired by Teradata), now working on new Big Data architecture for Ocado."
   thumbnailUrl: PrzemyslawPietruszka.jpg
   rockstar: true
+-
+  id: 13
+  name: "Vitaliy"
+  surname: "Zasadnyy"
+  company: "GDG Lviv"
+  title: "Mobile Developer"
+  bio: "Mobile developer and Google Developers Group Lviv co-founder. Interested in GameDev, Android, iOS, Google App Engine and community management."
+  thumbnailUrl: VitaliyZasadnyy.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+VitalikZasadnyy/"}
+    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+-
+  id: 14
+  name: "Jana"
+  surname: "Moudrá"
+  company: "GDG Prague, Juicymo"
+  title: "Co-founder, Frontend and Android Developer"
+  bio: "Jana is a co-founder of Juicymo and happy event organizer in GDG Prague/GDG ČVUT. She loves modern web technologies like Dart and HTML5. In Juicymo she does Frontend and Android development and she also designs UIs for web and mobile. Besides some speeches she organized together with Jakub Škvára two Dart + Polymer codelabs and hackathon and planning to do more because she loves helping other developers and spreading of these technologies."
+  thumbnailUrl: JanaMoudra.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+JanaMoudrá/"}
+    - {name: "twitter", link: "https://twitter.com/janamou"}
+    - {name: "homepage", link: "http://www.moudra.net/"}
+-
+  id: 15
+  name: "Jakub"
+  surname: "Škvára"
+  company: "GDG Prague, Yearbookmachine"
+  title: "Software Engineer"
+  bio: "Jakub is a member of GDG Prague and GDG ČVUT in Czech republic and he organised together with Jana Moudrá several Dart + Polymer code labs and hackaton. He works as frontend and backend developer for startup called Yearbook machine in London. Jakub is interested in modern Javascript frameworks, libraries and tools, Dart and loves clean code."
+  thumbnailUrl: JakubSkvara.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+JakubSkvara/"}
+    - {name: "twitter", link: "https://twitter.com/@skvaros"}
+    - {name: "homepage", link: "http://www.jakubskvara.cz/"}
