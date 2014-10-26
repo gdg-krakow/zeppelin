@@ -1,4 +1,4 @@
-- 
+-
   id: 1
   name: "Dawid"
   surname: "Ostrowski"
@@ -7,7 +7,7 @@
   bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
   thumbnailUrl: DawidOstrowski.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 -
   id: 2
@@ -18,10 +18,10 @@
   bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
   thumbnailUrl: MateuszHerych.jpg
   rockstar: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
     - {name: "twitter", link: "https://twitter.com/mherych"}
 -
@@ -122,7 +122,7 @@
   name: "Tomasz"
   surname: "Kubacki"
   company: ""
-  title: ""
+  title: "Building Polymer apps with Dart"
   bio: "Software engineer interested in both client and server side web development. OS projects contributor (mostly ServiceStack). Addicted to coffee freelancer & wannabe entrepreneur."
   thumbnailUrl: TomaszKubacki.jpg
   rockstar: true
