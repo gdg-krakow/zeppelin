@@ -147,16 +147,16 @@
   rockstar: true
 -
   id: 13
-  name: "Vitaliy"
-  surname: "Zasadnyy"
+  name: "Ostap"
+  surname: "Andrusiv"
   company: "GDG Lviv"
-  title: "Mobile Developer"
-  bio: "Mobile developer and Google Developers Group Lviv co-founder. Interested in GameDev, Android, iOS, Google App Engine and community management."
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  title: "Android Developer"
+  bio: "Ostap is an R&D engineer at ELEKS, passionate about Java & Android. He is the organizer of GDG Lviv events and an active participant of technological conferences worldwide. Right now he is diving into wearable technology like Google Glass and smart watches. He likes being active, enjoys travelling, jogging and is an ultimate frisbee fan. Ostap started sharing his experience to prevent others from shooting themselves in the foot twice."
+  thumbnailUrl: OstapAndrusiv.jpg
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+VitalikZasadnyy/"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    - {name: "google-plus", link: "https://plus.google.com/+OstapAndrusiv/"}
+    - {name: "twitter", link: "https://twitter.com/p1f"}
 -
   id: 14
   name: "Jana"
