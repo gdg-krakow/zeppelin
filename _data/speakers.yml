@@ -138,12 +138,12 @@
 -
   id: 12
   name: "Przemek"
-  surname: "Pietruszka"
+  surname: "Pastuszka"
   company: "Ocado Technology"
-  title: ""
+  title: "Senior Big Data Developer"
   bio: "Graduated in Computer Science from University of Wrocław.<br/>
         Former employee of US-based Hadoop startup called Hadapt (which was recently acquired by Teradata), now working on new Big Data architecture for Ocado."
-  thumbnailUrl: PrzemyslawPietruszka.jpg
+  thumbnailUrl: PrzemekPastuszka.jpg
   rockstar: true
 -
   id: 13
