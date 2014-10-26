@@ -169,7 +169,7 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+JanaMoudrá/"}
     - {name: "twitter", link: "https://twitter.com/janamou"}
-    - {name: "homepage", link: "http://www.moudra.net/"}
+    - {name: "site", link: "http://www.moudra.net/"}
 -
   id: 15
   name: "Jakub"
@@ -182,7 +182,7 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+JakubSkvara/"}
     - {name: "twitter", link: "https://twitter.com/@skvaros"}
-    - {name: "homepage", link: "http://www.jakubskvara.cz/"}
+    - {name: "site", link: "http://www.jakubskvara.cz/"}
 -
   id: 16
   name: "Dominika"
