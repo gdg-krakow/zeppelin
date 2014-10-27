@@ -12,7 +12,7 @@ baseurl: ""
 url: "http://devfest.pl/"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-55295197-1"
-googleAnalyticsSiteUrl: "gdg-krakow.github.io"
+googleAnalyticsSiteUrl: "devfest.pl"
 
 # Organizer Info
 organizerName: "GDG Kraków"
@@ -38,6 +38,7 @@ c4sponsorsUrl: "/partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
@@ -56,7 +57,7 @@ heroButtons:
 aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Conference", image: "conference.png", text: "A day full of talks about newest technologies presented by European speakers. There will also be a soft skills set with practical tips & tricks regarding leadership, communication & design." }
- - {title: "Workshops", image: "workshops.png", text: "3 workshops of 1,5 hour each, related to the topics introduced in presentations. That will be a great occasion to try and develop something new using up to date technologies under the supervision of experts." }
+ - {title: "Workshops", image: "workshops.png", text: "5 workshops of 1,5 hour each, related to the topics introduced in presentations. That will be a great occasion to try and develop something new using up to date technologies under the supervision of experts." }
  - {title: "Networking", image: "krakow.png", text: "During the conference you will have a lot of occasions to meet interesting people from Poland and Europe. Conference will end with an afterparty in one of Krakow’s clubs." }
 
 # Statistic Block
@@ -64,7 +65,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "18", specialCharacter: "", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "workshops", detail: "of pure technologies"}
+ - {count: "5", specialCharacter: "", info: "workshops", detail: "of pure technologies"}
  - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "tech & soft skills"}
 
 # Latest News Block

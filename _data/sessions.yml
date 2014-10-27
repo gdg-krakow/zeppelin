@@ -1,46 +1,155 @@
 -
- id: 307
- title: "Coffee Break"
- place: "Hall"
- service: true
+  id: 307
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
 -
- id: 503
- title: "Lunch Break"
- place: "Dining room"
- service: true
+  id: 503
+  title: "Lunch Break"
+  place: "Dining room"
+  service: true
 -
- id: 001
- title: "Material design: Visual style and imagery"
- description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
- subtype: workshop
- speakers: [3, 6]
- language: en
+  id: 505
+  title: "Registration"
+  place: ""
+  service: true
 -
- id: 002
- title: "Building Cloud-powered wearable Apps"
- description: "Android wear extends the Android platform to a new generation of wearable devices. The user experience is designed specifically for wearables. In this session you’ll see how to use the Android Wear SDK to build a connected cloud-powered application. Using Android Studio and it’s cloud extensions, you’ll see how to build an app that ‘listens’ for changes in stock prices, and notifies a wearable device. You’ll also see how to use voice controls on the device to trigger interactions with the app, such as buying or selling the stock after a notification. Call to action: Get the SDK and start building apps today!"
- subtype: presentation
- speakers: [4, 5]
- language: en
+  id: 001
+  title: "Keynote"
+  description: ""
+  subtype: presentation
+  speakers: [1]
+  language: en
 -
- id: 003
- title: "The world is your playground - go global with Google"
- description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
- subtype: presentation
- speakers: [4]
- language: en
- complexity: "Expert"
+  id: 002
+  title: "Getting your app ready for Lollipoop"
+  description: ""
+  subtype: presentation
+  speakers: [8]
+  language: en
 -
- id: 004
- title: "Polymer: Interacting with Google Services using nothing but HTML"
- description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
- subtype: keynote
- speakers: [6]
- language: uk
+  id: 003
+  title: ""
+  description: ""
+  subtype: workshop
+  speakers: [16]
+  language: pl
 -
- id: 005
- title: "Test: Interacting with Google Services using nothing but HTML"
- description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
- subtype: keynote
- speakers: [7]
- language: en
+  id: 004
+  title: ""
+  description: ""
+  subtype: workshop
+  speakers: [14]
+  language: en
+-
+  id: 005
+  title: "How to use Android with Google Cast API"
+  description: "I would like to share information about using Android with Google Cast API (Chromecast  in particular). I would concentrate on Android part but I would say few words about web/js/ part too and show how to develop Chromecast ready apps without having this device. There would be small demonstrations too."
+  subtype: presentation
+  speakers: [17]
+  language: pl
+-
+  id: 006
+  title: "Front-End Tools Beyond DevTools"
+  description: "Every front-end developer knows that Chrome DevTools rocks! It is a primary tool we work with every day. Mastering it is a must. Yet there is more to the story. Real front-end craftspersons don’t use a multi-tool for every task. Instead, they use a set of specialised tools to make their work more efficient. In the Chrome world, these tools are called Chrome Extensions.<br/>During my presentation, I will demonstrate several extensions I have built. I will explain how I built them. You’ll not only learn about new tools, but you will also see how easy it is to create them!"
+  subtype: presentation
+  speakers: [4]
+  language: pl
+-
+  id: 007
+  title: "Train your SQLite database to work faster"
+  description: ""
+  subtype: presentation
+  speakers: [2]
+  language: pl
+-
+  id: 008
+  title: "Google Communities ecosystem: We need to go deeper"
+  description: "Curious what Google Top Contributors (TCs), Google Developer Groups (GDGs), Google Business Groups (GBGs), Google Educator Groups (GEGs), Google Developer Experts (GDEs), Google Student Ambassadors (GSAs), Google Map Maker (GMM) editors & reviewers, Google City Experts, Google Women Techmakers (WTM), Glass Explorers, YouTube Creators, and Ingress communities are all about? In this session, we’ll talk about 12 various communities around Google’s consumer, developer, and business products and technologies. The goal is to help you to focus on the most relevant communities to you, based on your personal and professional interests."
+  subtype: presentation
+  speakers: [3]
+  language: en
+-
+  id: 009
+  title: "TBD"
+  description: ""
+  subtype: presentation
+  speakers: [13]
+  language: en
+-
+  id: 010
+  title: "TBD"
+  description: ""
+  subtype: presentation
+  speakers: [18]
+  language: pl
+-
+  id: 011
+  title: "Android Wear"
+  description: ""
+  subtype: presentation
+  speakers: [5]
+  language: pl
+-
+  id: 012
+  title: "Design, Develop and Distribute - od pomysłu do przychodu czyli cykl życia aplikacji"
+  description: ""
+  subtype: presentation
+  speakers: [9]
+  language: pl
+-
+  id: 013
+  title: "Boiling out boilerplate"
+  description: "We will look at the ways of removing boilerplate from our Android apps by using libraries leveraging code generation. Starting our walk from the current standard Pluggable Annotations Processing API and continuing to emerging alternatives like bytecode weaving, AST transformations in Java and Groovy. We will talk about advantages and limitations of each technology."
+  subtype: presentation
+  speakers: [11]
+  language: pl
+-
+  id: 014
+  title: "Improve your communication skills dramatically without saying a word"
+  description: ""
+  subtype: presentation
+  speakers: [7]
+  language: en
+-
+  id: 015
+  title: "Scaling Android Development at Spotify"
+  description: "How to work on Android development when your team is going to be big."
+  subtype: presentation
+  speakers: [19]
+  language: pl
+-
+  id: 016
+  title: "The Leadership Gap"
+  description: "I often hear complaints that we don’t have enough great leaders in our organizations.<br/>
+
+                If, as Jerry Weinberg points, leadership is a process of creating an environment where people become empowered let’s focus on how we create and evolve environments we work at.<br/>
+
+                One issue is the system. W. Edwards Deming famously said that a bad system will defeat a good person every time. Then we should discuss how we build our teams and how it contributes to our goals. Finally, we have organizational culture that is blood of every company and influence all behaviors.<br/>
+
+                All these bits are inseparably interconnected thus if we want to create an environment where leadership thrives we need to take all of them into account.<br/>
+                Let’s take a look at how these ideas may be applied in practice. In Lunar Logic eventually but inevitably everyone becomes a leader. We simply pay attention to how the organization is designed in a broader context. That’s the story I will share.<br/>
+
+                After all, there's no shortage of leaders, only a shortage of companies that let leadership emerge."
+  subtype: presentation
+  speakers: [6]
+  language: pl
+-
+  id: 017
+  title: "Big Bad Data"
+  description: "I want to talk about how we tried to deal with Big Data in Ocado, what obstacles we hit and what steps we took to resolve those issues.
+                In the talk I'll show how we use Google infrastructure to run Big Data, including tools like Big Query, Compute Engine and App Engine."
+  subtype: presentation
+  speakers: [12]
+  language: pl
+-
+  id: 018
+  title: "Building Polymer Apps With Dart"
+  description: "As a freelancer Tomasz is working on several commercial projects in which he uses the combined power of Dart and Polymer. As these projects grow and grow, it's getting more and more difficult to handle them while at the same time leaving some space for their potential growth . Or is it? Will Dart and Polymer save the day? Come and find out!"
+  subtype: presentation
+  speakers: [10]
+  language: pl
+-
+  id: 019
+  title: "Closing"
+  service: true
