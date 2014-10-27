@@ -1,4 +1,8 @@
 -
+  group: "Gold sponsor"
+  elements:
+    - {name: "Allegro", description: "Allegro", link: "http://allegro.pl/", imageUrl: "allegro.jpg"}
+-
   group: ""
   elements: 
     - {name: "Crossweb.pl", description: "Crossweb.pl", link: "http://crossweb.pl", imageUrl: "crossweb.png"}

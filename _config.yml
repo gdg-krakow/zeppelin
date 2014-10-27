@@ -41,9 +41,7 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "http://goo.gl/fC9WVQ", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://goo.gl/fC9WVQ", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -52,7 +50,6 @@ eventDate: "November 8, 2014"
 typeoutTextValues: '"", "Conference", "Workshops", "Poland"'
 typeoutFallback: "Conference"
 heroButtons:
- - {link: "http://goo.gl/fC9WVQ", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -66,9 +63,9 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "15", specialCharacter: "", info: "speakers", detail: "from country and beyond"}
+ - {count: "18", specialCharacter: "", info: "speakers", detail: "from country and beyond"}
  - {count: "3", specialCharacter: "", info: "workshops", detail: "of pure technologies"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "tech & soft skills"}
+ - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "tech & soft skills"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
