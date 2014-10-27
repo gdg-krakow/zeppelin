@@ -4,7 +4,13 @@
     - {name: "Allegro", description: "Allegro", link: "http://allegro.pl/", imageUrl: "allegro.jpg"}
 -
   group: "Information partners"
-  elements: 
+  elements:
     - {name: "Crossweb.pl", description: "Crossweb.pl", link: "http://crossweb.pl", imageUrl: "crossweb.png"}
     - {name: "Webmus.es", description: "Webmus.es", link: "http://www.webmus.es/", imageUrl: "Webmuses.jpg"}
     - {name: "Hackerspace Kraków", description: "hackerspace-krk.pl", link: "http://hackerspace-krk.pl/", imageUrl: "HackerSpace.png"}
+    - {name: "GDG Poland", description: "GDG Poland", link: "https://plus.google.com/105194415052752125887/posts", imageUrl: "gdgpoland.jpg"}
+    - {name: "GDG Lviv", description: "GDG Lviv", link: "http://lviv.gdg.org.ua/", imageUrl: "gdglviv.jpg"}
+    - {name: "MCE", description: "Mobile Central Europe", link: "http://mceconf.com/", imageUrl: "mce.jpg"}
+    - {name: "Mobilization", description: "Mobilization", link: "http://www.mobilization.pl/", imageUrl: "mobilization.jpg"}
+    - {name: "Polish Java Users Group", description: "Polish Java Users Group", link: "http://www.java.pl/", imageUrl: "pjug.jpg"}
+    - {name: "Droidcon Kraków", description: "Droidcon Kraków", link: "http://droidcon.pl/", imageUrl: "droidcon.jpg"}
