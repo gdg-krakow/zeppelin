@@ -22,7 +22,7 @@
   language: en
 -
   id: 002
-  title: "Getting your app ready for Lollipoop"
+  title: "Getting your app ready for Lollipop"
   description: "The new version of Android is not only a new API for programmers, but also a huge change to how Android applications look like. During the presentation Wojtek will show us how to use AppCompat to easily prepare your application for Material Design release."
   subtype: presentation
   speakers: [8]
