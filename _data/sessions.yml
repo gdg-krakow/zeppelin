@@ -29,14 +29,14 @@
   language: en
 -
   id: 003
-  title: ""
+  title: "TBD"
   description: ""
   subtype: workshop
   speakers: [16]
   language: pl
 -
   id: 004
-  title: ""
+  title: "TBD"
   description: ""
   subtype: workshop
   speakers: [14]
@@ -153,3 +153,24 @@
   id: 019
   title: "Closing"
   service: true
+-
+  id: 020
+  title: "Chrome Extensions Workshop - your browser is so much more than a 'website viewer'"
+  description: "Time we spent in the browser is constantly increasing. Web apps are capable of things that we couldn't have imagined a few years back. And this trend isn't slowing down! However, if you want to create something that isn't limited to the `window` object, something that unleashes the full potential of the browser and allows you to utilize your JavaScript skills, you need to learn about Chrome extensions. These small programs can enhance, or modify, browser functionality and are extremely easy to develop. Care to learn more?"
+  subtype: workshop
+  speakers: [4]
+  language: pl
+-
+  id: 021
+  title: "TBD"
+  description: ""
+  subtype: workshop
+  speakers: [15]
+  language: en
+-
+  id: 022
+  title: "Księga gości z AppEngine na każde urządzenie - Google Cloud Endpoints"
+  description: ""
+  subtype: workshop
+  speakers: [9]
+  language: pl

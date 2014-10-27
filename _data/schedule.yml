@@ -1,6 +1,6 @@
 -
   date: "2014-11-08"
-  dateReadable: "November 8"
+  dateReadable: ""
   tracks: 
     - {title: "Android & Cloud", color: "#90be4e"}
     - {title: "Web & Community", color: "#03a9f4"}
@@ -80,3 +80,25 @@
       endTime: "18:00",
       sessionIds: [019]
     }
+-
+  date: "2014-11-08"
+  dateReadable: "Workshops"
+  tracks:
+    - {title: "Workshops #1", color: "#90be4e"}
+    - {title: "Workshops #2", color: "#03a9f4"}
+  timeslots:
+  - {
+    startTime: "11:30",
+    endTime: "13:00",
+    sessionIds: [003, 004],
+  }
+  - {
+    startTime: "14:00",
+    endTime: "15:30",
+    sessionIds: [020, 021],
+  }
+  - {
+    startTime: "16:10",
+    endTime: "17:30",
+    sessionIds: [022],
+  }
