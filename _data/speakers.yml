@@ -210,3 +210,12 @@
   bio: "Piotr is passionate about frontend development and simply making users happy. He does this while working on Angular apps as a Software Engineer at Google Kraków."
   thumbnailUrl: PiotrBryk.jpg
   rockstar: true
+-
+  id: 19
+  name: "Paweł"
+  surname: "Zięba"
+  company: "Spotify"
+  title: "Android Engineer"
+  bio: "Passionate Android developer at Spotify."
+  thumbnailUrl: PawelZieba.jpg
+  rockstar: true
