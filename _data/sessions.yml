@@ -140,7 +140,7 @@
   language: pl
 -
   id: 017
-  title: "Big Bad Data"
+  title: "Big Data on Google Platform"
   description: "I want to talk about how we tried to deal with Big Data in Ocado, what obstacles we hit and what steps we took to resolve those issues.
                 In the talk I'll show how we use Google infrastructure to run Big Data, including tools like Big Query, Compute Engine and App Engine."
   subtype: presentation
