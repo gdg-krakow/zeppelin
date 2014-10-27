@@ -11,40 +11,40 @@
 -
   id: 505
   title: "Registration"
-  place: ""
+  place: "Entrance Hall"
   service: true
 -
   id: 001
   title: "Keynote"
-  description: ""
+  description: "So you are probably wondering why should you wake up so early on Saturday morning. Well, you can be sure that our keynote will wake you up! Come and learn about all the things that made 2014 a great year for technology enthusiasts."
   subtype: presentation
   speakers: [1]
   language: en
 -
   id: 002
   title: "Getting your app ready for Lollipoop"
-  description: ""
+  description: "The new version of Android is not only a new API for programmers, but also a huge change to how Android applications look like. During the presentation Wojtek will show us how to use AppCompat to easily prepare your application for Material Design release."
   subtype: presentation
   speakers: [8]
   language: en
 -
   id: 003
-  title: "TBD"
-  description: ""
+  title: "How To Talk With Programmers"
+  description: "Who would like to talk with programmers anyway? Well, if you are one of those crazy people, you simply have to attend Dominika's workshops."
   subtype: workshop
   speakers: [16]
   language: pl
 -
   id: 004
-  title: "TBD"
-  description: ""
+  title: "Dart Code Lab"
+  description: "Dart is optionally typed, object-oriented language for the web by Google. With Dart you can build apps both for the client and the server. Dart is easy to learn and comes with lots of handy libraries. During this session you will explore some Dart basics and create your first Dart application. Come, try Dart and have fun learning how you can write awesome applications with it. Note: please don't forget to bring your laptop with downloaded Dart and Dart Editor (or any editor which you can use with Dart)."
   subtype: workshop
   speakers: [14]
   language: en
 -
   id: 005
   title: "How to use Android with Google Cast API"
-  description: "I would like to share information about using Android with Google Cast API (Chromecast  in particular). I would concentrate on Android part but I would say few words about web/js/ part too and show how to develop Chromecast ready apps without having this device. There would be small demonstrations too."
+  description: "Radek will share some information about using Android with Google Cast API - Chromecast in particular. He will focus on Android but he's going to mention some JavaScript part too. Demos included."
   subtype: presentation
   speakers: [17]
   language: pl
@@ -57,11 +57,11 @@
   language: pl
 -
   id: 007
-  title: "Train your SQLite database to work faster"
-  description: ""
+  title: "Use Guava"
+  description: "Mateusz's talk will make you a Guava lover in 30 mins. Or not. But it will show you some Guava features beyond Collections2 that made him love this wonderful library that makes Java developers' lives easier since years already."
   subtype: presentation
   speakers: [2]
-  language: pl
+  language: en
 -
   id: 008
   title: "Google Communities ecosystem: We need to go deeper"
@@ -71,29 +71,29 @@
   language: en
 -
   id: 009
-  title: "TBD"
-  description: ""
+  title: "Android Wear"
+  description: "TBD"
   subtype: presentation
   speakers: [13]
   language: en
 -
   id: 010
-  title: "TBD"
-  description: ""
+  title: "What's New in AngularJS 2.0"
+  description: "AngularJS 2.0 has been looming on the horizon since last couple of months. It is promised to fix major problems that developers face while working with 1.x version. So what are the long awaited changes?"
   subtype: presentation
   speakers: [18]
   language: pl
 -
   id: 011
-  title: "Android Wear"
-  description: ""
+  title: "Make your app Android Wear compatible"
+  description: "This year Google introduced Android Wear technology. Many of you are probably wondering how to make your existing app work well with currently available Android Wear devices. Michał will show you that it's not that hard to give your users an additional value for wearing the green robot on their wrists."
   subtype: presentation
   speakers: [5]
   language: pl
 -
   id: 012
-  title: "Design, Develop and Distribute - od pomysłu do przychodu czyli cykl życia aplikacji"
-  description: ""
+  title: "Design, Develop and Distribute"
+  description: "Paweł will smoothly guide you through the meanders of application lifecycle. From designing a beautiful and fully functional application, to developing and finally making some money off of it, you'll learn some tips and tricks that will make your life easier and more productive."
   subtype: presentation
   speakers: [9]
   language: pl
@@ -107,7 +107,11 @@
 -
   id: 014
   title: "Improve your communication skills dramatically without saying a word"
-  description: ""
+  description: "What I’d like to address to the community is the power of listening. I see listening as the hidden secret of good communication. Everyone focuses on improving their ability to speak, whether on stage or to clients, to better convey their message, but that’s the harder half of the communication challenge facing programmers, designers, and project stakeholders. </br>
+
+                I’d like to address three aspects of listening: the power it gives to allow others to think more creatively, the function of the listening role, and specific techniques to improve listening skills. </br>
+
+                Obviously, this is a topic that could be addressed at any conference to any audience, but since I’ve spent the past twenty years in IT in various roles, my experience and concerns are focused on making software teams more effective. I’m convinced that the next big advance in software delivery effectiveness will not come in the form of a tool or methodology, but in a renewed interest in the human side of collaboration and this is where my present interests lie."
   subtype: presentation
   speakers: [7]
   language: en
@@ -145,7 +149,7 @@
 -
   id: 018
   title: "Building Polymer Apps With Dart"
-  description: "As a freelancer Tomasz is working on several commercial projects in which he uses the combined power of Dart and Polymer. As these projects grow and grow, it's getting more and more difficult to handle them while at the same time leaving some space for their potential growth . Or is it? Will Dart and Polymer save the day? Come and find out!"
+  description: "As a freelancer Tomasz is working on several commercial projects in which he uses the combined power of Dart and Polymer. As these projects grow and grow, it's getting more and more difficult to handle them, while at the same time leaving some space for their potential growth. Or is it? Will Dart and Polymer save the day? Come and find out!"
   subtype: presentation
   speakers: [10]
   language: pl
@@ -162,15 +166,15 @@
   language: pl
 -
   id: 021
-  title: "TBD"
-  description: ""
+  title: "Polymer Code Lab"
+  description: "Polymer is a new kind of library, built atop Web Components, that enables developers to create their own custom HTML elements. Polymer gives developers true markup and style encapsulation, two-way data binding, and a clean, declarative syntax for defining new elements that extend HTML itself.  In this session you will learn how to build your own HTML elements using Polymer and Dart. Note: please don't forget to bring your laptop and it's recommended to attend Dart Code Lab for better understanding ."
   subtype: workshop
   speakers: [15]
   language: en
 -
   id: 022
-  title: "Księga gości z AppEngine na każde urządzenie - Google Cloud Endpoints"
-  description: ""
+  title: "A simple AppEngine based guestbook for every device - Google Cloud Endpoints"
+  description: "During Paweł's workshop you'll have a chance to get familiar with Google Cloud Endpoints. You'll code a simple API and implement it in Android and in the browser."
   subtype: workshop
   speakers: [9]
   language: pl
