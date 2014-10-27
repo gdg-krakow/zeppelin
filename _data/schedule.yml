@@ -9,91 +9,91 @@
       startTime: "09:00",
       endTime: "09:50",
       sessionIds: [505]
-      //registration
+      #registration
     }
     - {
       startTime: "10:00",
       endTime: "10:50",
       sessionIds: [001]
-      //Dawid keynote
+      #Dawid keynote
     }
     - {
       startTime: "11:00",
       endTime: "11:30",
       sessionIds: [008]
-      //Aygul
+      #Aygul
     }
     - {
       startTime: "11:30",
       endTime: "11:50",
       sessionIds: [307]
-      //coffee break
+      #coffee break
     }
     - {
       startTime: "11:50",
       endTime: "12:20",
       sessionIds: [007,017]
-      //Herych, Pastuszka
+      #Herych, Pastuszka
     }
     - {
       startTime: "12:30",
       endTime: "13:00",
       sessionIds: [005,006]
-      //Piekarz, Dzwinel
+      #Piekarz, Dzwinel
     }
     - {
       startTime: "13:00",
       endTime: "14:00",
       sessionIds: [503]
-      //lunch
+      #lunch
     }
     - {
       startTime: "14:00",
       endTime: "14:30",
       sessionIds: [009,010]
-      //Andrusiv, Bryk
+      #Andrusiv, Bryk
     }
     - {
       startTime: "14:40",
       endTime: "15:10",
       sessionIds: [011,012]
-      //Tajchert, Psztyc
+      #Tajchert, Psztyc
     }
     - {
       startTime: "15:10",
       endTime: "15:30",
       sessionIds: [307]
-      //coffee break
+      #coffee break
     }
     - {
       startTime: "15:30",
       endTime: "16:00",
       sessionIds: [013,014]
-      //Gorski, Klipp
+      #Gorski, Klipp
     }
     - {
       startTime: "16:10",
       endTime: "16:40",
       sessionIds: [015,016]
-      //Zieba, Brodzinski
+      #Zieba, Brodzinski
     }
     - {
       startTime: "16:40",
       endTime: "17:00",
       sessionIds: [307]
-      //coffee break
+      #coffee break
     }
     - {
       startTime: "17:00",
       endTime: "17:30",
       sessionIds: [002,018]
-      //Kalicinski, Kubacki
+      #Kalicinski, Kubacki
     }
     - {
       startTime: "17:30",
       endTime: "18:00",
       sessionIds: [019]
-      //closing
+      #closing
     }
 -
   date: "2014-11-08"
@@ -106,17 +106,17 @@
     startTime: "11:30",
     endTime: "13:00",
     sessionIds: [003, 004],
-    //Musial, Moudra
+    #Musial, Moudra
   }
   - {
     startTime: "14:00",
     endTime: "15:30",
     sessionIds: [020, 021],
-    //Dzwinel, Skvara
+    #Dzwinel, Skvara
   }
   - {
     startTime: "16:10",
     endTime: "17:30",
     sessionIds: [022],
-    //Psztyc
+    #Psztyc
   }
