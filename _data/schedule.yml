@@ -9,76 +9,91 @@
       startTime: "09:00",
       endTime: "09:50",
       sessionIds: [505]
+      //registration
     }
     - {
       startTime: "10:00",
       endTime: "10:50",
       sessionIds: [001]
+      //Dawid keynote
     }
     - {
       startTime: "11:00",
       endTime: "11:30",
-      sessionIds: [002]
+      sessionIds: [008]
+      //Aygul
     }
     - {
       startTime: "11:30",
-      endTime: "13:00",
+      endTime: "11:50",
       sessionIds: [307]
+      //coffee break
     }
     - {
       startTime: "11:50",
       endTime: "12:20",
-      sessionIds: [007,008]
+      sessionIds: [007,017]
+      //Herych, Pastuszka
     }
     - {
       startTime: "12:30",
       endTime: "13:00",
       sessionIds: [005,006]
+      //Piekarz, Dzwinel
     }
     - {
       startTime: "13:00",
       endTime: "14:00",
       sessionIds: [503]
+      //lunch
     }
     - {
       startTime: "14:00",
       endTime: "14:30",
       sessionIds: [009,010]
+      //Andrusiv, Bryk
     }
     - {
       startTime: "14:40",
       endTime: "15:10",
       sessionIds: [011,012]
+      //Tajchert, Psztyc
     }
     - {
       startTime: "15:10",
       endTime: "15:30",
       sessionIds: [307]
+      //coffee break
     }
     - {
       startTime: "15:30",
       endTime: "16:00",
       sessionIds: [013,014]
+      //Gorski, Klipp
     }
     - {
       startTime: "16:10",
       endTime: "16:40",
       sessionIds: [015,016]
+      //Zieba, Brodzinski
     }
     - {
       startTime: "16:40",
       endTime: "17:00",
       sessionIds: [307]
+      //coffee break
     }
     - {
       startTime: "17:00",
       endTime: "17:30",
-      sessionIds: [017,018]
+      sessionIds: [002,018]
+      //Kalicinski, Kubacki
     }
     - {
       startTime: "17:30",
       endTime: "18:00",
       sessionIds: [019]
+      //closing
     }
 -
   date: "2014-11-08"
@@ -91,14 +106,17 @@
     startTime: "11:30",
     endTime: "13:00",
     sessionIds: [003, 004],
+    //Musial, Moudra
   }
   - {
     startTime: "14:00",
     endTime: "15:30",
     sessionIds: [020, 021],
+    //Dzwinel, Skvara
   }
   - {
     startTime: "16:10",
     endTime: "17:30",
     sessionIds: [022],
+    //Psztyc
   }
