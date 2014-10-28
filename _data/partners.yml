@@ -2,7 +2,7 @@
   group: "Gold sponsor"
   elements:
     - {name: "Allegro", description: "Allegro", link: "http://allegro.pl/", imageUrl: "allegro.jpg"}
-    - {name: "Base", description: "Base", link: "https://getbase.com/", imageUrl: "base.jpg"}
+    - {name: "Base", description: "Base", link: "https://lab.getbase.com", imageUrl: "base.jpg"}
 -
   group: "Information partners"
   elements:
