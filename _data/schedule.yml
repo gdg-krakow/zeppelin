@@ -3,7 +3,7 @@
   dateReadable: ""
   tracks:
     - {title: "Android", color: "#90be4e"}
-    - {title: "Cloud, Web & Community", color: "#03a9f4"}
+    - {title: "Web & Community", color: "#03a9f4"}
   timeslots:
     - {
       startTime: "09:00",
