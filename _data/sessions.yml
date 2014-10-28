@@ -71,8 +71,8 @@
   language: en
 -
   id: 009
-  title: "Android Wear"
-  description: "TBD"
+  title: "Wearable Connectivity Architectures"
+  description: "In most cases, data is useless, until you process it. Wearables collect tons of data nowadays. But they are not powerful enough to process it. That's why most of them send this data somewhere (to other devices, into the clouds, etc). We'll have a look at the ways wearables connect to the outer world and send data there."
   subtype: presentation
   speakers: [13]
   language: en
