@@ -1,4 +1,4 @@
-- 
+-
   group: ""
   elements:
-    - {name: "GDG Kraków", description: "GDG Kraków - Open and volunteer geek community", link: "http://www.meetup.com/GDG-Krakow/", imageUrl: "gdg-krk.png"}
+    - {name: "GDG Kraków", description: "GDG Kraków - Open and volunteer geek community", link: "http://www.meetup.com/GDG-Krakow/", imageUrl: "gdgkrk.png"}
