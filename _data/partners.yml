@@ -1,5 +1,5 @@
 -
-  group: "Gold sponsor"
+  group: "Gold sponsors"
   elements:
     - {name: "Allegro", description: "Allegro", link: "http://allegro.pl/", imageUrl: "allegro.jpg"}
     - {name: "Base", description: "Base", link: "https://lab.getbase.com", imageUrl: "base.jpg"}
