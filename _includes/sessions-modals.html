@@ -14,7 +14,12 @@
 						<h4>{{ session.title }}</h4>
 						<span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
 						<p class="theme-description">{{ session.description }}</p>
-						<hr>
+                        {% if session.registrationUrl %}
+                        <p style="text-align:center">
+                            <a href="{{session.registrationUrl}}" class="btn btn-primary waves-effect waves-button waves-light waves-float">Register</a>
+                        </p>
+                        {% endif %}
+                        <hr/>
 						<div class="people-details">
 							{% for speaker in site.data.speakers %}
 								{% for session_speaker in session.speakers %}

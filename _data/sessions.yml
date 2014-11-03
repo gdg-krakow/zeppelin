@@ -34,6 +34,7 @@
   subtype: workshop
   speakers: [16]
   language: pl
+  registrationUrl: "https://docs.google.com/forms/d/1iaGIRbLb9CIo6SMqDZf7MDqy7Gxr7F5FPYi1DLBx21A/viewform?c=0&w=1"
 -
   id: 004
   title: "Dart Code Lab"
@@ -41,6 +42,7 @@
   subtype: workshop
   speakers: [14]
   language: en
+  registrationUrl: "https://docs.google.com/forms/d/1wSvmrd2HISGsxOoMYHccCCczY3LMeK6q5nWU2DrSqvg/viewform"
 -
   id: 005
   title: "How to use Android with Google Cast API"
@@ -164,6 +166,7 @@
   subtype: workshop
   speakers: [4]
   language: pl
+  registrationUrl: "https://docs.google.com/forms/d/1B0b_kkIYmY3DX7BM5gi98QCiJCqvaaJSJES-_71e9ps/viewform"
 -
   id: 021
   title: "Polymer Code Lab"
@@ -171,6 +174,7 @@
   subtype: workshop
   speakers: [15]
   language: en
+  registrationUrl: "https://docs.google.com/forms/d/1c7NlavinBN5q6h2kPvoZMl8bSzpSCIcv-8Y1wOkPlWc/viewform"
 -
   id: 022
   title: "A simple AppEngine based guestbook for every device - Google Cloud Endpoints"
@@ -178,3 +182,4 @@
   subtype: workshop
   speakers: [9]
   language: pl
+  registrationUrl: "https://docs.google.com/forms/d/1IAb-WpTAFnn1XRoXby1tHWrPUX0ZV3Y6pwDCKXsRQl4/viewform"
