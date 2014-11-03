@@ -149,9 +149,9 @@
   id: 13
   name: "Ostap"
   surname: "Andrusiv"
-  company: "GDG Lviv"
+  company: "GDG Lviv, ELEKS"
   title: "Android Developer"
-  bio: "He creates awesome stuff as R&D Engineer at Eleks Software. Breaking Google Glass, Pebbles, Sony SmartWatches and other wearable stuff is his daily routine. When he has free time, he makes other devs happy by organizing GDG Lviv community events."
+  bio: "He creates awesome stuff as R&D Engineer at ELEKS. Breaking Google Glass, Pebbles, Sony SmartWatches and other wearable stuff is his daily routine. When he has free time, he makes other devs happy by organizing GDG Lviv community events."
   thumbnailUrl: OstapAndrusiv.jpg
   rockstar: true
   social:
