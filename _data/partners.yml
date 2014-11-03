@@ -4,6 +4,10 @@
     - {name: "Allegro", description: "Allegro", link: "http://allegro.pl/", imageUrl: "allegro.jpg"}
     - {name: "Base", description: "Base", link: "https://lab.getbase.com", imageUrl: "base.jpg"}
 -
+  group: "Silver sponsor"
+  elements:
+    - {name: "Making Waves Polska", description: "Making Waves Polska", link: "http://makingwaves.pl/", imageUrl: "MakingWavesPolska.png"}
+-
   group: "Information partners"
   elements:
     - {name: "Crossweb.pl", description: "Crossweb.pl", link: "http://crossweb.pl", imageUrl: "crossweb.png"}
