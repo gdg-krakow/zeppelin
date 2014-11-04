@@ -20,3 +20,4 @@
     - {name: "Polish Java Users Group", description: "Polish Java Users Group", link: "http://www.java.pl/", imageUrl: "pjug.jpg"}
     - {name: "Droidcon Kraków", description: "Droidcon Kraków", link: "http://droidcon.pl/", imageUrl: "droidcon.jpg"}
     - {name: "Django Girls Kraków", description: "Django Girls Kraków", link: "http://djangogirls.org/krakow/", imageUrl: "django.jpg"}
+    - {name: "Making Software", description: "Making Software", link: "http://makingsoftware.pl", imageUrl: "MakingSoftware.png"}
