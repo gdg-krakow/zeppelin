@@ -147,7 +147,7 @@
                 In the talk I'll show how we use Google infrastructure to run Big Data, including tools like Big Query, Compute Engine and App Engine."
   subtype: presentation
   speakers: [12]
-  language: pl
+  language: en
 -
   id: 018
   title: "Building Polymer Apps With Dart"
