@@ -21,3 +21,4 @@
     - {name: "Droidcon Kraków", description: "Droidcon Kraków", link: "http://droidcon.pl/", imageUrl: "droidcon.jpg"}
     - {name: "Django Girls Kraków", description: "Django Girls Kraków", link: "http://djangogirls.org/krakow/", imageUrl: "django.jpg"}
     - {name: "Making Software", description: "Making Software", link: "http://makingsoftware.pl", imageUrl: "MakingSoftware.png"}
+    - {name: "GDG DevFest Košice 2014", description: "GDG DevFest Košice 2014", link: "http://devfest.sk/", imageUrl: "gdg-kosice.png"}
