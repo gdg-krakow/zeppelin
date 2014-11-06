@@ -39,6 +39,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule#Workshops", text: "Workshops"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/#location-map", text: "Venue"}
  - {permalink: "/logistics/", text: "Logistics"}

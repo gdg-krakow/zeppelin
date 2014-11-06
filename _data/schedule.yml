@@ -1,9 +1,10 @@
 -
   date: "2014-11-08"
   dateReadable: ""
+  description: "Below, you will find the conference schedule. Please note that sessions are color-coded (<span style='color:#F7A738'>Room 1</span>, <span style='color:#7EB24A'>Room 2</span>, <span style='color:#E33B3B'>Room 3</span>, <span style='color:#34B7F3'>Room 4</span>)."
   tracks:
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Community", color: "#03a9f4"}
+    - {title: "Android", color: "#F7A738"}
+    - {title: "Web & Community", color: "#7EB24A"}
   timeslots:
     - {
       startTime: "09:00",
@@ -95,12 +96,19 @@
       sessionIds: [019]
       #closing
     }
+    - {
+      startTime: "18:00",
+      endTime: "24:00",
+      sessionIds: [666]
+      #after party
+    }
 -
   date: "2014-11-08"
   dateReadable: "Workshops"
+  description: "If you'd like to participate in a workshop, please <b>make sure to register</b>! Number of places is limited. To see the 'Register' button, please click on the choosen workshop below."
   tracks:
-    - {title: "Workshops #1", color: "#90be4e"}
-    - {title: "Workshops #2", color: "#03a9f4"}
+    - {title: "Workshops #1", color: "#E33B3B"}
+    - {title: "Workshops #2", color: "#34B7F3"}
   timeslots:
   - {
     startTime: "11:30",

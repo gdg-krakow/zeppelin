@@ -9,6 +9,11 @@
   place: "Dining room"
   service: true
 -
+  id: 666
+  title: "After Party in <a href='https://plus.google.com/100791491882121456425/about?hl=en'>Betel</a> (Szczepański square 3)!"
+  place: "Betel - plac Szczepański 3"
+  service: true
+-
   id: 505
   title: "Registration"
   place: "Entrance Hall"
@@ -56,7 +61,7 @@
   description: "Every front-end developer knows that Chrome DevTools rocks! It is a primary tool we work with every day. Mastering it is a must. Yet there is more to the story. Real front-end craftspersons don’t use a multi-tool for every task. Instead, they use a set of specialised tools to make their work more efficient. In the Chrome world, these tools are called Chrome Extensions.<br/>During my presentation, I will demonstrate several extensions I have built. I will explain how I built them. You’ll not only learn about new tools, but you will also see how easy it is to create them!"
   subtype: presentation
   speakers: [4]
-  language: pl
+  language: en
 -
   id: 007
   title: "Use Guava"

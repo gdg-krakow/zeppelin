@@ -2,8 +2,11 @@
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
         {% for day in site.data.schedule %}
-        <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
-            <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
+        <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1" >
+            <h4 class="schedule-table-heading" id="{{ day.dateReadable }}">{{ day.dateReadable }}</h4>
+            {% if day.description %}
+            <p>{{ day.description }}</p>
+            {% endif %}
             <div class="timeslot track-header stick-header">
                 <div class="track-header-label"></div>
                 <div class="timeslot-elements flexbox-wrapper">
